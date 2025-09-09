@@ -13,8 +13,32 @@ jobs:
         id: generate-token
         uses: tibdex/github-app-token@v2
         with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.PRIVATE_KEY }}
+          app_id: ${{ 1922326 }}
+          private_key: ${{ MIIEowIBAAKCAQEA3riQUQQ9h8PkvaumeHFtm1I9c+gLjAMMrawkfZaaVjt7ECu5
+                      cPEyfESvH/CZtLBnVX1Tov+GQVBhidqkhtVZBwABQO02n2TIwDYYInjJiGfI15Of
+                      EuWB6yV9bBDerMRGwQS+mGbTSN0IeVRkVnEImKw7KBmLC2LOu+vmatiz69Kp0yU5
+                      UqrRu0y83ERF5n9VXkNt4I8XoFFy8vdWBB7sIYzU+O5UeQLL2B8gjnJxNXZa8Lox
+                      8bTNYFPGbRv59YQEOJodE/yaf6FdoiQCmA5i7rSy4R7Vf8mlfePvt4MPSSFvq4Jh
+                      gXruAO0Lj+nMyXd1SbbYAVzojaVi8GOPmyownQIDAQABAoIBADlM6Kw/WAk+5/G4
+                      YLrqC9YDIZZZY+cgvblM6ZJ6FbkL0oyFg09Absmz7g5cm172Z4+CD+uGrCbPpFiQ
+                      LPYXm7EGWkw2+2+kwVVaVXlA9DCo6u4zp6B39aXm3k7YREHUuZNdQh/5jHBZlZ2J
+                      jcsDh7+nyAx4DeLfB+snNP/WQuvvqyoqwUX61Lepnd/yOj3JMKkWS/prFKajHdzg
+                      PQAipROB3QMt7+lRtPSWPh0tJzPUUGHsuHDlhf1UnMDOUMbTRe30VeKMd/9cVAkZ
+                      3sPqUP4Fp5GNPVHOmotRn85DfQqiVtA1yZhYYOsLiLL89VGFKKDYDSOH0k+XCrx2
+                      6p1x7C0CgYEA8mJeqFDETiCxjolcx2UgMqC6314lRM+tNFag5FPnDTGc5bPFHscW
+                      M7Y81AdiGjh82VlQra7irWhUh39TBmb69dyJZ7XcnEugpPOUHOGfAEpHRBdQOLyk
+                      B3W4fzd0u3Pqx27GzpBkZC67BO70bfs2PdD+qubvP2LI1kM+75hLhNcCgYEA6zts
+                      hlZ7sPpzf+x6ekTkLWEhavSK94Q6r1wJSUAc06dsn9zTC4csvPY2+pgMrMmSjBwQ
+                      bsCoY31XBGwqvGzfvUd1PMGFwZChEA2nigqIRYgKammYdOgDKW2LNjMHP2EqEE7h
+                      5hTnseXOEKwEUiaobaEQwP3eq4eb4Vv3C2j3k6sCgYBq4n4jcxpd6YTi+ifzteBw
+                      8vf1MCr3IS2b+ueQSH+HDe3GTXQLkndz7lT8mxTjwy0rG3u8W3aSSYOdDMSr+hWI
+                      /euJ1GSod6ErnE4gPk5Dbn3mxPEXU/hxYbQuRWIwl3lc4LjCtmHO29yU3FrldPYC
+                      ZHspGhU+um0eLyE9vsbumQKBgQDU3uq/ywWWS5839Z2EhlFjC5H9Qx17Dis5Q/WX
+                      VzB/DPTM2j4WIZaHzdxE/FIED0nSBxeL0kbP+b5EX0pxR6lVlZPvjkVnvGU0rNaf
+                      ohZdrdWXJMX1jXxHAj3Hp3f4kApLxcbBustNfuPyzGgAm8ExrF8H9vWJjmevEdVH
+                      ew8IjwKBgHEkEs6JpQsnf1KNjId9RA1h8y0A9aAijchxABF4ccz/oPqJGgdvKUjk
+                      TtEyoSEy8P6M3pl9awdfIweeD/2/IBjMVypvxZ3DJVX+qN9sTmOlRvQqvENiG1pd
+                      9QXBuOoJXMXElUYCTHUihQtGao8cHq9JcvVQYfBjN7odf8+mCE63 }}
 
       - name: Check out repository
         uses: actions/checkout@v4
